@@ -8,5 +8,7 @@
   4.Share functionality.</br>
 ### App preview1 -
 <img src="https://user-images.githubusercontent.com/66179464/114358711-d705a780-9b90-11eb-86e9-ed76b110fdd9.gif" width="250" height="500" /></br>
+Here you can see how the conversions are worked through the input of custom keyboard.
 ### App preview2 -
 <img src="https://user-images.githubusercontent.com/66179464/114359929-1680c380-9b92-11eb-918a-d3cf97aa7218.gif" width="250" height="500" />
+Here you can see a list a images where I thoroughly discuss the conversion processes with examples.Also you can like and share it.
