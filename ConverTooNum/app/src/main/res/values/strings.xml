@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">ConverToo Num</string>
+    <string-array name="number_sys">
+        <item>Decimal</item>
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+    <string-array name="number_sys1">
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Hexadecimal</item>
+        <item>Decimal</item>
+    </string-array>
+    <string name="about_text">
+        In this application you convert any type of number(like: Decimal,Binary,Octal,Hexadecimal) to another type of number.
+        The base of decimal number is 10,base of octal number is 8, base of hexadecimal number is 16 and base of binary number is 2.
+        Some times students  faced some problem to convert numbers for that reason we develop this app.They easily use it and if they
+        have any doubt about the process they can visit the learn section.In the learn section we shows some images of process of conversion.
+        After understanding the process they liked the images and share it with their friends. In this way they learn very quickly.\n
+
+
+        <b>How can I use the app?</b>\n
+        After the installation of app you see a converting calculator and there you can convert any number.Above the three dot you found
+        learn option and click it.Then you open the learn activity and you can learn from the images that we are provided . Then you share and
+        like it.Lastly, you enjoy it........:)))
+
+    </string>
+    <string name="decimal_to_binary">Decimal to Binary</string>
+    <string name="decimal_to_octal">Decimal to Octal</string>
+    <string name="decimal_to_hexadecimal">Decimal to Hexadecimal</string>
+    <string name="binary_to_octal">Binary to Octal</string>
+    <string name="binary_to_hexadecimal">Binary to Hexadecimal</string>
+    <string name="binary_to_decimal">Binary to Decimal</string>
+    <string name="octal_to_binary">Octal to Binary</string>
+    <string name="octal_to_hexadecimal">Octal to Hexadecimal</string>
+    <string name="octal_to_decimal">Octal to Decimal</string>
+    <string name="hexadecimal_to_binary">Hexadecimal to Binary</string>
+    <string name="hexadecimal_to_octal">Hexadecimal to Octal</string>
+    <string name="hexadecimal_to_decimal">Hexadecimal to Decimal</string>
+    <string name="delete">Delete</string>
+    <string name="f">F</string>
+    <string name="e">E</string>
+    <string name="d">D</string>
+    <string name="c">C</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="_0">0</string>
+    <string name="ac">AC</string>
+</resources>
