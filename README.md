@@ -7,4 +7,4 @@
   3.Long press functionality.</br>
   4.Share functionality.</br>
 ### App priview1 -
-</br></br><video src="https://user-images.githubusercontent.com/66179464/114356263-06ff7b80-9b8e-11eb-8368-d435711d8b1a.mp4" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/66179464/114358711-d705a780-9b90-11eb-86e9-ed76b110fdd9.gif" width="250" height="500" />
