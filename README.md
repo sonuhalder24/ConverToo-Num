@@ -6,7 +6,7 @@
   2.Custom keyboard.</br>
   3.Long press functionality.</br>
   4.Share functionality.</br>
-### App priview1 -
+### App preview1 -
 <img src="https://user-images.githubusercontent.com/66179464/114358711-d705a780-9b90-11eb-86e9-ed76b110fdd9.gif" width="250" height="500" /></br>
-### App priview2 -
+### App preview2 -
 <img src="https://user-images.githubusercontent.com/66179464/114359929-1680c380-9b92-11eb-918a-d3cf97aa7218.gif" width="250" height="500" />
